@@ -1,4 +1,6 @@
-<img src="https://reactlab.com.ec/wp-content/uploads/2020/03/ReactLab_logo_verde_blanco_400px.png" alt="Logo" align="center">
+<center>
+    <img src="https://reactlab.com.ec/wp-content/uploads/2020/03/ReactLab_logo_verde_blanco_400px.png" alt="Logo">
+</center>
 
 ## Psycho Stim Responder
 
