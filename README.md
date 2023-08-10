@@ -16,15 +16,18 @@ Data Storage: Seamlessly saves participant data in organized CSV files.
 Clone the repository:
 
 bash
-Copy code
+  ```sh
 git clone https://github.com/mohammedahmadi1990/psycho-stim-responder
+  ```
+
 Navigate to the cloned directory and install required dependencies (if any).
 
 ### Run the application:
 
 bash
-Copy code
+  ```sh
 python main.py
+  ```
 
 ### Usage
 Start the application.
